@@ -3,6 +3,8 @@
 
 I'm a final year postgraduate from NITK Surathkal.  
 
+**Website ( Currently working on it ) ** : [themartian0x48.github.io/](themartian0x48.github.io/)
+
 ## Some of thing I've worked on
 
 - [Endecry](https://github.com/TheMartian0x48/endecry-cryptographic-hash-and-cipher)
@@ -12,6 +14,7 @@ I'm a final year postgraduate from NITK Surathkal.
 - [Cryptty](#)
     - A peer to peer secure chat application
     - Used centralised system for accessing public key and API service
+    - **Currently working on it**
 - [Sudoku](https://github.com/TheMartian0x48/sudoku)
     - GUI sudoku solver in python 3 using Pygame
     - Used backtracking to optimize validation of input        
