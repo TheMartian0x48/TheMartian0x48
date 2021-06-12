@@ -3,7 +3,7 @@
 
 I'm a final year postgraduate from NITK Surathkal.  
 
-**Website ( Currently working on it ) ** : [themartian0x48.github.io/](themartian0x48.github.io/)
+**Website ( Currently working on it )** : [themartian0x48.github.io/](themartian0x48.github.io/)
 
 ## Some of thing I've worked on
 
