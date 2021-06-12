@@ -12,3 +12,6 @@ I'm a final year postgraduate from NITK Surathkal.
 - [Cryptty](#)
     - A peer to peer secure chat application
     - Used centralised system for accessing public key and API service
+- [Sudoku](https://github.com/TheMartian0x48/sudoku)
+    - GUI sudoku solver in python 3 using Pygame
+    - Used backtracking to optimize validation of input        
