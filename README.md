@@ -15,3 +15,7 @@ I'm a final year postgraduate from NITK Surathkal.
 - [Sudoku](https://github.com/TheMartian0x48/sudoku)
     - GUI sudoku solver in python 3 using Pygame
     - Used backtracking to optimize validation of input        
+- [Competitive programming solution](https://github.com/TheMartian0x48/CP)
+    - Solution to [USACO](http://www.usaco.org/) (USA Computing Olympiad)
+    - Solution to [Online judge (UVA)](uva.onlinejudge.org/index.php)
+
