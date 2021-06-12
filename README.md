@@ -5,6 +5,8 @@ I'm a final year postgraduate from NITK Surathkal.
 
 **Website ( Currently working on it )** : [https://themartian0x48.github.io/](https://themartian0x48.github.io/)
 
+[ Linkden ](https://www.linkedin.com/in/themartian0x48/) | [Codeforces](https://codeforces.com/profile/TheMartian0x48)  | [Codechef](https://www.codechef.com/users/martian_7)
+
 ## Some of thing I've worked on
 
 - [Endecry](https://github.com/TheMartian0x48/endecry-cryptographic-hash-and-cipher)
