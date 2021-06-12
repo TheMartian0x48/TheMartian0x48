@@ -9,3 +9,6 @@ I'm a final year postgraduate from NITK Surathkal.
     - It is terminal based cryptography software.
     - Generate cryptographical hash and encrypt and decrypted input.
     - Implemented MD2, MD4, MD5, SHA1, SHA2, SHA3, chacha cipher and others.
+- [Cryptty](#)
+    - A peer to peer secure chat application
+    - Used centralised system for accessing public key and API service
