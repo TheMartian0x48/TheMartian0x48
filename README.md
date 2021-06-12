@@ -20,10 +20,11 @@ I'm a final year postgraduate from NITK Surathkal.
     - Solution to [Online judge (UVA)](uva.onlinejudge.org/index.php)
 
 ---
-
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=TheMartian0x48&show_icons=true&theme=gruvbox&line_height=24&hide=stars"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMartian0x48&layout=compact&theme=gruvbox&line_height=24">
 
 ---
-
+## Pinned 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=sudoku&show_icons=true&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=CP&show_icons=true&theme=gruvbox">
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=TheMartian0x48.github.io&show_icons=true&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=SQL&show_icons=true&theme=gruvbox">
