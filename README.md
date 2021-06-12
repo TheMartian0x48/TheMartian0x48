@@ -3,7 +3,7 @@
 
 I'm a final year postgraduate from NITK Surathkal.  
 
-**Website ( Currently working on it )** : [themartian0x48.github.io/](themartian0x48.github.io/)
+**Website ( Currently working on it )** : [https://themartian0x48.github.io/](https://themartian0x48.github.io/)
 
 ## Some of thing I've worked on
 
@@ -31,3 +31,4 @@ I'm a final year postgraduate from NITK Surathkal.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=sudoku&show_icons=true&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=CP&show_icons=true&theme=gruvbox">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=TheMartian0x48.github.io&show_icons=true&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=SQL&show_icons=true&theme=gruvbox">
+
