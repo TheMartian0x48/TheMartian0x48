@@ -19,3 +19,5 @@ I'm a final year postgraduate from NITK Surathkal.
     - Solution to [USACO](http://www.usaco.org/) (USA Computing Olympiad)
     - Solution to [Online judge (UVA)](uva.onlinejudge.org/index.php)
 
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMartian0x48&show_icons=true&theme=gruvbox)](#)
+
