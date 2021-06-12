@@ -5,14 +5,14 @@ I'm a final year postgraduate from NITK Surathkal.
 
 **Website ( Currently working on it )** : [https://themartian0x48.github.io/](https://themartian0x48.github.io/)
 
-[ Linkden ](https://www.linkedin.com/in/themartian0x48/) | [Codeforces](https://codeforces.com/profile/TheMartian0x48)  | [Codechef](https://www.codechef.com/users/martian_7)
+[ Linkedin ](https://www.linkedin.com/in/themartian0x48/) | [Codeforces](https://codeforces.com/profile/TheMartian0x48)  | [Codechef](https://www.codechef.com/users/martian_7)
 
 ## Some of thing I've worked on
 
 - [Endecry](https://github.com/TheMartian0x48/endecry-cryptographic-hash-and-cipher)
     - It is terminal based cryptography software.
     - Generate cryptographical hash and encrypt and decrypted input.
-    - Implemented MD2, MD4, MD5, SHA1, SHA2, SHA3, chacha cipher and others.
+    - Implemented MD2, MD4, MD5, SHA1, SHA2, SHA3, Chacha cipher and others.
 - [Cryptty](#)
     - A peer to peer secure chat application
     - Used centralised system for accessing public key and API service
