@@ -30,7 +30,7 @@ I'm a final year postgraduate from NITK Surathkal.
 
 ---
 ## Pinned 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=sudoku&show_icons=true&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=CP&show_icons=true&theme=gruvbox">
+<a href="https://github.com/TheMartian0x48/sudoku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=sudoku&show_icons=true&theme=gruvbox"></a> <a href="https://github.com/TheMartian0x48/CP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=CP&show_icons=true&theme=gruvbox"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=TheMartian0x48.github.io&show_icons=true&theme=gruvbox"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=SQL&show_icons=true&theme=gruvbox">
+<a href="https://github.com/TheMartian0x48/TheMartian0x48.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=TheMartian0x48.github.io&show_icons=true&theme=gruvbox"></a> <a href="https://github.com/TheMartian0x48/SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartian0x48&repo=SQL&show_icons=true&theme=gruvbox"></a>
 
