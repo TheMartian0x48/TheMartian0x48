@@ -13,10 +13,10 @@ I'm a final year postgraduate from NITK Surathkal.
     - It is terminal based cryptography software.
     - Generate cryptographical hash and encrypt and decrypted input.
     - Implemented MD2, MD4, MD5, SHA1, SHA2, SHA3, Chacha cipher and others.
-- [Cryptty](#)
-    - A peer to peer secure chat application
-    - Used centralised system for accessing public key and API service
-    - **Currently working on it**
+- [Web Terminal](#https://github.com/TheMartian0x48/web-terminal/)
+    - A custom terminal for websites which support  command like `ls`, `open`, `cd`, `pwd`, `exit`
+    - Used tree to make optimize the navigation 
+    - Technology and Concept used: JavaScript, Tree, HTML, CSS
 - [Sudoku](https://github.com/TheMartian0x48/sudoku)
     - GUI sudoku solver in python 3 using Pygame
     - Used backtracking to optimize validation of input        
