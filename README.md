@@ -1,17 +1,8 @@
-<img src="asset/wave.gif" width="50px" align="right">
-<div align="center">
-  <h1>Aditya Kumar Singh</h1>
-</div>
+Welcome!
 
-## About Me 
+Aditya is a passionate math and coding enthusiast with a deep love for exploring the mysteries of the universe. His fascination with mathematics has been a lifelong journey, and He thoroughly enjoy delving into its various applications and possibilities.
 
-- *Currently SDE Intern at Arcesium (DE Shaw Group)*
-- *Student at NITK (National Institute Of Technology Karnataka, Surathkal)*
+By profession, He work as a Software Developer at Arcesium, where he continuously apply his skills and knowledge in the field.
 
-*Catch me on [themartian0x48.github.io](https://themartian0x48.github.io/)*
+Occasionally, He take the time to write about technology and mathematics, sharing his insights and discoveries with the world through his blog ( https://themartian0x48.github.io ).
 
-## Something I worked on
-
-- *[Endecry](https://github.com/TheMartian0x48/endecry)*
-- *[Web Terminal](https://github.com/TheMartian0x48/web-terminal)*
-- *[Solutin of Problem from USACO and UVA](https://github.com/TheMartian0x48/CP)*
