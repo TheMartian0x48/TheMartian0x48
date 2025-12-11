@@ -16,7 +16,7 @@ I'm a Senior Software Engineer at **Arcesium** with 3+ years of experience shapi
 I enjoy turning chaotic puzzles into clean, reliable software and diving deep into architectures that need both speed and structure.
 
 **What drives me:**
-Microservices, system design, data lakes, and squeezing performance out of every layer.
+Microservices, system design, data lakes, and squeezing performance out of every layer.  
 **What inspires me:**
 Mathematics and its uncanny ability to explain the universe. 🌌
 
@@ -45,4 +45,5 @@ Solo rides are my way of resetting the world—no notifications, no noise, just 
 <p>Let’s create things worth building and chase horizons worth exploring. 🚀</p>
 <p><small>Blog: <a href="https://themartian0x48.github.io">themartian0x48.github.io</a></small></p>
 </div>
+
 
