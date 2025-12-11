@@ -22,8 +22,8 @@ Mathematics and its uncanny ability to explain the universe. 🌌
 
 ## 🛠️ My Toolkit
 
-**Languages:** Java, Python, Golang, C++, SQL, JavaScript, HTMX
-**Core Stack:** SpringBoot, PostgreSQL, Apache Iceberg, DuckDB, MyBatis
+**Languages:** Java, Python, Golang, C++, SQL, JavaScript, HTMX  
+**Core Stack:** SpringBoot, PostgreSQL, Apache Iceberg, DuckDB, MyBatis  
 **Cloud & Ops:** AWS (S3, SQS), Kubernetes, Docker, Airflow, Git
 
 I love building systems that are fast, fault-tolerant, and quietly elegant under load.
@@ -34,9 +34,9 @@ I love building systems that are fast, fault-tolerant, and quietly elegant under
 When the keyboard rests, the motorcycle rolls.
 Solo rides are my way of resetting the world—no notifications, no noise, just the hum of the engine and the stories the road tells.
 
-🏔️ **Mountains:** Himalayan routes that feel like stairways into the sky
-🌊 **Coasts:** Long, quiet stretches where the sea becomes your soundtrack
-🗺️ **Hidden Trails:** Offbeat villages, forgotten roads, and unexpected discoveries
+🏔️ **Mountains:** Himalayan routes that feel like stairways into the sky  
+🌊 **Coasts:** Long, quiet stretches where the sea becomes your soundtrack  
+🗺️ **Hidden Trails:** Offbeat villages, forgotten roads, and unexpected discoveries  
 
 “Code builds systems. Rides build perspective.”
 
@@ -45,3 +45,4 @@ Solo rides are my way of resetting the world—no notifications, no noise, just 
 <p>Let’s create things worth building and chase horizons worth exploring. 🚀</p>
 <p><small>Blog: <a href="https://themartian0x48.github.io">themartian0x48.github.io</a></small></p>
 </div>
+
